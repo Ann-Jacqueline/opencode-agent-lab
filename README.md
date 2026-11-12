@@ -2,6 +2,8 @@
 
 An interactive, self-study field guide for building AI agents with **OpenCode V2**.
 
+**Live demo:** <https://ann-jacqueline.github.io/opencode-agent-lab/>
+
 Agent Lab is a static web app: no build step, no package manager, no backend. It
 runs from a folder and stores your progress in the browser.
 
@@ -17,6 +19,9 @@ Then open <http://localhost:4173>.
 
 You can also open `index.html` directly, but a local server is recommended for
 the embedded video and consistent browser behavior.
+
+The public site is deployed with **GitHub Pages** from the `main` branch root.
+The `.nojekyll` file tells Pages to serve the static files as-is.
 
 ## What is inside
 
